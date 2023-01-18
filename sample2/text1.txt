@@ -1,0 +1,5 @@
+﻿mvc
+what is mean by mvc
+mvc stands (model view controller)
+how to identify the web api(in this we have models and views in solution explorer)
+discus about app start and globel.asax and home controller and 
